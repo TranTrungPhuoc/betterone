@@ -1,0 +1,199 @@
+footer{
+    margin-top: 15px;
+    
+}
+
+.footerTop{
+    background-image: url('../images/bg_footer.jpg');
+    background-size: cover;
+}
+
+
+.footerTop__aboutUs{
+    
+   width: 40%;
+}
+
+.footerTop__aboutUs img{
+    margin-top: 25px;
+    width: 250px;
+}
+
+
+
+.footerTop__aboutUs p{
+    font-size: 14px;
+    color: white;
+    text-align: justify;
+    width: 80%;
+}
+
+#icon__socialNetwork{
+    display: flex;
+    padding: 0;
+    
+}
+
+#icon__socialNetwork li{
+    
+    list-style: none;
+}
+
+#icon__socialNetwork li a{
+    color: white;
+    margin-right: 10px;
+}
+
+#icon__socialNetwork li a i{
+    
+}
+
+.footerTop__right{
+    
+    display: flex;
+    width: 75%;
+}
+
+/* SITEMAP!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+
+.foooterTop__siteMap{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 25%;
+}
+
+.foooterTop__siteMap h3{
+    color: white;
+    text-transform: uppercase;
+}
+
+.foooterTop__siteMap ul{
+    padding: 0;
+    list-style: none;
+}
+
+.foooterTop__siteMap ul li{
+    margin-top: 15px;
+}
+
+.foooterTop__siteMap ul li a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+/* POLICY!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.footerTop__policy{
+    margin: 15px;
+    width: 25%;
+}
+
+.footerTop__policy h3{
+    color: white;
+    text-transform: uppercase;
+}
+
+.footerTop__policy ul{
+    padding: 0;
+    list-style: none;
+}
+
+.footerTop__policy ul li{
+
+    margin-top: 15px;
+}
+
+.footerTop__policy ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+/* INFORMATION!!!!!!!!!!!!!!!!!!!!!!! */
+
+.footerTop__infor{
+    margin: 15px;
+    width: 25%;
+}
+
+.footerTop__infor h3{
+    color: white;
+    text-transform: uppercase;
+}
+
+.footerTop__infor span{
+    color: white;
+    
+}
+
+
+
+.footerTop__infor ul{
+    padding: 0;
+    list-style: none;
+}
+
+.footerTop__infor ul li{
+    display: flex;
+    margin-top: 10px;
+}
+
+.footerTop__infor ul li span{
+    color: white;
+    display: block;
+    
+}
+
+.footerTop__infor ul li span i{
+    margin-right: 10px;
+}
+
+.footer__bottom{
+    background-image: url('../images/bg_footertop2-2.jpg');
+    background-size: cover;
+    display: flex;
+    
+}
+
+.back_round{
+    background-color: #a91605;
+}
+
+.footerBottom__left{
+    margin-left: 25px;
+    width: 80%;
+    color: white;
+    text-align: left;
+}
+
+.footerBottom__left i:first-child{
+    text-align: center;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+    padding: 15px 30px;
+    background-color: #333333;
+    width: 5%;
+}
+
+.footerBottom__right{
+    border-radius: 10px 10px 0px 0px;
+    margin-top: 25px;
+    padding: 2px 15px;
+    background-color: #a91605;  
+    width: 20%;
+    text-align: center;
+    color: white;
+    
+    
+}
+
+.footerBottom__right span i {
+    
+    width: 7%;
+}
+
+.footerBottom__right span:last-child{
+  
+  
+}
+
